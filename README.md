@@ -25,9 +25,9 @@
 |Week 1| ~Section 0, 1~ | ~2023.07.18~ | ~김재인~ |
 |Week 2| ~Section 2~    | ~2023.07.25~ | ~양현승~ |
 |Week 3| ~Section 3, 4~ | ~2023.08.01~ | ~채정현~ |
-|Week 4| Section 7 | 2023.08.08   | ?     |
-|Week 5| Section 7/8 보충1/보충2 | 2023.08.22   | ?     |
-|Week 6| Section ?      | 2023.09.05   | ?     |
+|Week 4| ~Section 7~ | ~2023.08.08~ | ~양현승~ |
+|Week 5| ~Section 7/8 보충1/보충2~ | ~2023.08.22~ | ~김영동~ |
+|Week 6| Section 9      | 2023.09.05   | ?     |
 |Week 7| Section ?      | 2023.09.12   | ?     |
 |Week 8| Section ?      | 2023.09.19   | ?     |
 
