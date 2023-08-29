@@ -30,9 +30,9 @@
 |Week 6| Section 9      | 2023.09.05   | ?     |
 |Week 7| Section 11      | 2023.09.12   | ?     |
 |Week 8| Section 13, 14      | 2023.09.19   | ?     |
-|Week 8| Section 15      | 2023.09.26   | ?     |
-|Week 8| Section 16     | 2023.10.02   | ?     |
-|Week 8| Section 17, 18      | 2023.10.16   | ?     |
+|Week 9| Section 15      | 2023.09.26   | ?     |
+|Week 10| Section 16     | 2023.10.02   | ?     |
+|Week 11| Section 17, 18      | 2023.10.16   | ?     |
 
 ---
 
