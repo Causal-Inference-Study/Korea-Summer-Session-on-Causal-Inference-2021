@@ -28,8 +28,11 @@
 |Week 4| ~Section 7~ | ~2023.08.08~ | ~양현승~ |
 |Week 5| ~Section 7/8 보충1/보충2~ | ~2023.08.22~ | ~김영동~ |
 |Week 6| Section 9      | 2023.09.05   | ?     |
-|Week 7| Section ?      | 2023.09.12   | ?     |
-|Week 8| Section ?      | 2023.09.19   | ?     |
+|Week 7| Section 11      | 2023.09.12   | ?     |
+|Week 8| Section 13, 14      | 2023.09.19   | ?     |
+|Week 8| Section 15      | 2023.09.26   | ?     |
+|Week 8| Section 16     | 2023.10.02   | ?     |
+|Week 8| Section 17, 18      | 2023.10.16   | ?     |
 
 ---
 
