@@ -29,9 +29,10 @@
 |Week 5| ~Section 7/8 보충1/보충2~ | ~2023.08.22~ | ~김영동~ |
 |Week 6| ~Section 9~ | ~2023.09.05~ | ~김영동~ |
 |Week 7| ~Section 11~ | ~2023.09.11~ | ~채정현~ |
-|Week 8| Section 13, 14      | 2023.09.19   | ?     |
-|Week 9| Section 15      | 2023.09.26   | ?     |
-|Week 10| Section 16     | 2023.10.02   | ?     |
-|Week 11| Section 17, 18      | 2023.10.16   | ?     |
+|Week 8| Section 13 | 2023.09.19   | ?     |
+|Week 9| Section 14 | 2023.09.27   | ?     |
+|Week 10| Section 15 | 2023.10.02   | ?     |
+|Week 11| Section 16 | 2023.10.16   | ?     |
+|Week 11| Section 17, 18 | 2023.10.23   | ?     |
 
 ---
